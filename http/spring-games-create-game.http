@@ -1,0 +1,8 @@
+POST http://localhost:8080/games
+Content-Type: application/json
+
+{
+  "gameType": "tic-tac-toe",
+  "playerCount": 2,
+  "boardSize": 3
+}
