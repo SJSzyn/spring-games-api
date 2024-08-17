@@ -23,7 +23,7 @@ HTTP Methods
 
 ---
 
-Entites / Resoruces
+Entities / resources
 
 - Game instance
 - Move of within the game
